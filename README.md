@@ -1,5 +1,7 @@
 # Email-Spam-Classifier-Model
 
+Building a Logistic Regression Model to classify spam emails for detection purposes. Model built using email data and many engineered features using Regex and other functions written from scratch.
+
 ## Repository Directory
 
 `Email Classifier.ipynb` : Jupyter Notebook of code and modeling report for the Email Classifier.
